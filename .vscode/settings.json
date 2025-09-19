@@ -1,0 +1,6 @@
+{
+    "dataworkspace.excludedProjects": [
+        "PracticingSequel/PracticingSequel.sqlproj"
+    ],
+    "sqltools.connections": []
+}
